@@ -1,6 +1,6 @@
 ---
 title: Organization
-layout: page
+layout: sub
 permalink: /organization/
 ---
 
