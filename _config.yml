@@ -1,8 +1,10 @@
-title: Testing IEEE theme
-description: test IEEE
+title: 2016 IEEE Cyber Science and Technology Congress (CyberSciTech 2016)
+description: CyberSciTech 2016
+
+
 
 baseurl: /bs2
-color-scheme: "mediumseagreen" # the scheme can be any HEX code like "#00aa55"
+color-scheme: "#1979a9" # the scheme can be any HEX code like "#00aa55"
 
 sass:
   sass_dir: /assets/css/_sass
