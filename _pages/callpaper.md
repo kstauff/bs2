@@ -1,6 +1,6 @@
 ---
 title: Call For Papers
-layout: page
+layout: sub
 permalink: /callpaper/
 ---
 <h2>Call For Papers</h2>
@@ -21,3 +21,4 @@ permalink: /callpaper/
 <li>Workshops related to CyberSciTech</li>
 <li>Special Sessions related to CyberSciTech</li>
 <li>Demo/Poster of CyberSciTech Researches & Applications</li>
+</ul></p></p>
