@@ -134,4 +134,4 @@ permalink: /organization/
 <li>Shih-Hung Wu, Chaoyang Univ., Taiwan</li>
 <li>Yi-Hsuan Yang, Academia Sinica, Taiwan</li>
 <li>Shih-Ching Yeh, Fudan University, China</li>
-</ul></div><!-- .entry-content -->
+</ul>
