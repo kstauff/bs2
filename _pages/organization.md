@@ -4,7 +4,7 @@ layout: page
 permalink: /organization/
 ---
 
-##Organization
+<h2>Organization</h2>
 <hr />
 <p><strong>Honorary Chairs</strong></p>
 <ul><li>Mazin Yousif, T-Systems, International, USA</li>
