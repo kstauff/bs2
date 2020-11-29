@@ -4,7 +4,7 @@ layout: sub
 permalink: /callpaper/
 ---
 <h2>Call For Papers</h2>
-<p>CyberSciTech 2016 covers four main research tracks including but not limited the following areas or topics.</p>
+<p>CyberSciTech 2016 covers four main research tracks including but not limited the following areas or topics:</p>
 <p><strong>Track 1: Cyber Science and Fundamentals</strong></p>
 <p>Cyberspace Structure & Property, Cyber-world Constituents & Evolution, Cyberspace & Cyber-world Modeling, Cyber-enabled Hyper-connection, Cyber Visualization, Web Science, Internet Science, Data Science, Cyber Physical Science, Cyber Social Science, Cyber Human Science, Cyber Life Science, Cyber Physics, Cyber Biology, Cyber Ecology, Cyber Dynamics, Cyber Security</p>
 <p><strong>Track 2: Cyber Physical Computing and Systems</strong></p>
@@ -21,4 +21,5 @@ permalink: /callpaper/
 <li>Workshops related to CyberSciTech</li>
 <li>Special Sessions related to CyberSciTech</li>
 <li>Demo/Poster of CyberSciTech Researches & Applications</li>
-</ul></p></p>
+</ul>
+	</div>
