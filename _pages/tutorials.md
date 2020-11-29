@@ -1,4 +1,13 @@
-<h4><span id="CyberSciTech_2016_Call_for_Tutorials">CyberSciTech 2016 Call for Tutorials</span></h4>
+---
+title: Call for Tutorials
+layout: sub
+permalink: /tutorials/
+---
+
+<h2>Call for Tutorials</h2>
+<hr/>
+
+
 <p>The 2016 IEEE Cyber Science and Technology Congress (CyberSciTech 2016) provides a common platform for scientists, researchers and engineers to exchange their latest ideas and outcomes in research, technology and science. It is also the venue to exchange the latest advances in cyberspace studies with its broad scope of cyber-related sciences, technologies and applications topics. It will be held jointly with the 14th IEEE International Conference on Dependable, Autonomic and Secure Computing (DASC 2016); the 14th IEEE International Conference on Pervasive Intelligence and Computing (PICom 2016); and the Second IEEE International Conference on Big Data Intelligence and Computing (DataCom 2016). In addition to the technical program, the congres will also feature tutorials and panels.</p>
 <p>CyberSciTech 2016 welcomes proposals for short and long tutorials from active researchers and experienced tutors. Ideally, a tutorial will cover the state-of-the-art research, development and applications in new cyber-related sciences, technologies and applications. Examples include, but are not limited to (1) cyber science and fundamentals, (2) cyber physical computing and systems, (3) cyber social networks and computing, as well as (4) cyber mind and mental computing. High preference will be given towards tutorials on interdisciplinary directions, novel and emerging new cyber-enabled sciences, technologies and applications for the better society.</p>
 <p>A proposal should cover the following items.</p>
@@ -34,3 +43,4 @@ For detail, please see <a href="http://cyberscitech.net/2016/wp-content/uploads/
 <td valign="top" width="717">Eduardo B. Fernandez, Florida Atlantic University, USA</td>
 </tr><tr><td valign="top" width="83">Description</td>
 <td valign="top" width="717">Patterns combine experience and good practices to develop models to build new systems and to evaluate existing systems. Security patterns encapsulate the extensive knowledge accumulated about security to provide guidelines for secure system design and evaluation. The speaker considers the structure and purpose of security patterns, and show a variety of security patterns including authentication, authorization, Web services security, and cloud security. He integrates patterns in the form of security reference architectures. This tutorial introduces patterns in a conceptual way, relating them to their purposes and to the functional parts of the architecture. The use of patterns can provide a holistic view of security, which is a fundamental principle to build secure systems. The speaker uses patterns and reference architectures to build cyber-physical systems and other cloud/IoT ecosystems. The patterns are shown using UML models and examples are taken from his two books on security patterns as well as from his recent publications.
+  </td></tr></tbody></table>
