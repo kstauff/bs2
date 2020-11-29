@@ -22,4 +22,4 @@ permalink: /callpaper/
 <li>Special Sessions related to CyberSciTech</li>
 <li>Demo/Poster of CyberSciTech Researches & Applications</li>
 </ul>
-	</div>
+</div>
