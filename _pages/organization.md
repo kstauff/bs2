@@ -5,7 +5,6 @@ permalink: /organization/
 ---
 
 <h2>Organization</h2>
-
 <p><strong>Honorary Chairs</strong></p>
 <ul><li>Mazin Yousif, T-Systems, International, USA</li>
 <li>Albert Zomaya, The University of Sydney, Australia</li>
